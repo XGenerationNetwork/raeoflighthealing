@@ -1569,3 +1569,9 @@ footer .container__mid {
 .massage-title p {
 	margin-bottom:20px;	
 }
+
+@media (max-width: 1201px) and (min-width: 992px) {
+	.nav-menu > li > a {
+    font-size: 11px !important; 
+	}
+}
